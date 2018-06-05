@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "801caaac922241b9135526a5c8557ae3f94b41dd13f62dfe431c676164c8a67b"
+            "sha256": "6d3e543dc6eb753b65e51ce97c3a738d4a5fa2bfdbc5fa0d4cccad9e52e6f973"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -64,6 +64,12 @@
             ],
             "version": "==2.6"
         },
+        "ordereddict": {
+            "hashes": [
+                "sha256:1c35b4ac206cef2d24816c89f89cf289dd3d38cf7c449bb3fab7bf6d43f01b1f"
+            ],
+            "version": "==1.1"
+        },
         "psycopg2": {
             "hashes": [
                 "sha256:027ae518d0e3b8fff41990e598bc7774c3d08a3a20e9ecc0b59fb2aaaf152f7f",
@@ -123,6 +129,12 @@
                 "sha256:9d81515f2b5b27051910996e1e860b1332e354d9e7bcf30c98f21dcb6713e0dd"
             ],
             "version": "==3.3.1"
+        },
+        "woocommerce": {
+            "hashes": [
+                "sha256:03c9e1f46d9a94426ad599ed59f65929c0dee3eb6ac444a3ce7274e08853ec38"
+            ],
+            "version": "==1.2.1"
         }
     },
     "develop": {}
